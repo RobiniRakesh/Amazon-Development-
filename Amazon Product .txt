@@ -5,4 +5,5 @@ Amazon Product
 3. Forgot password 
 4. Captcha
 5. Adding the Home Page for Amazon
-6.Adding the product to the cart
+6. Adding the product to the cart
+7. Removing the added product from the cart 
