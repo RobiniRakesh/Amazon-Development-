@@ -4,3 +4,4 @@ Amazon Product
 2. Login 
 3. Forgot password 
 4. Captcha
+5. Adding the Home Page for Amazon
